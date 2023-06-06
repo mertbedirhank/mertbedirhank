@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<img align="right" alt="Coding" width="370" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE0MTJlNTEzYzIwMjg3ODYzMGU1YTFiN2MyYzllODI0MjVkOWNiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif](https://github.com/mertbedirhank/mertbedirhank/assets/67749942/c76405e8-ebc5-4283-9b4a-8e038f3f5908)"
+<img align="right" alt="Coding" width="370" src=(https://github.com/mertbedirhank/mertbedirhank/assets/67749942/c76405e8-ebc5-4283-9b4a-8e038f3f5908)"
 
 * 🌱 I’m currently learning **React Native, Node.js, Boostrap**!
 
