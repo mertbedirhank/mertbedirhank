@@ -41,4 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbedirhank&" alt="mertbedirhank" /></p>
 
-<p><img align="center" width="1900" height="500" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/ff0f0b91-2dce-4e79-bef8-51b39c5c902e.gif"/></p>
+
+<p><img align="center" width="1900" height="500" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/fc229355-3f8b-4dd0-afd2-8dbfd66264d1.gif"/></p>
