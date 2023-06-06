@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <img align="right" alt="Coding" width="350" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/c76405e8-ebc5-4283-9b4a-8e038f3f5908.gif"
 
-* 🌱 I’m currently learning **React Native, Node.js, Boostrap**![Create lofi loop animation illustration]
+🌱 I’m currently learning **React Native, Node.js, Boostrap**![Create lofi loop animation illustration]
 
-* 📫 How to reach me **mertbedirhank@gmail.com**
+📫 How to reach me **mertbedirhank@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
