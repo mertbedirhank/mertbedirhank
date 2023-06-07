@@ -1,7 +1,6 @@
 <p><img align="center" width="1900" height="200" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/0eea4b8b-9fac-4fa5-9a02-cb94fbdde41d.gif"/></p>
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <img align="right" alt="Coding" width="350" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/c76405e8-ebc5-4283-9b4a-8e038f3f5908.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbedirhank&label=Profile%20views&color=0e75b6&style=flat" alt="mertbedirhank" /></p>
 
 🌱 I’m currently learning **React Native, Node.js, Boostrap**!
 
@@ -42,6 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mertbedirhank&show_icons=true&locale=en" alt="mertbedirhank" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbedirhank&" alt="mertbedirhank" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertbedirhank&label=Profile%20views&color=0e75b6&style=flat" alt="mertbedirhank" /></p>
 
 
 
