@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <img align="right" alt="Coding" width="350" src="https://github.com/mertbedirhank/mertbedirhank/assets/67749942/c76405e8-ebc5-4283-9b4a-8e038f3f5908.gif"
 
-🌱 I’m currently learning **React Native, Node.js, Boostrap**!
+🌱 I’m currently learning **React, React Native, Node.js**!
 
 📫 How to reach me: **mertbedirhank@gmail.com**
 
